@@ -1,0 +1,22 @@
+{
+  "name": "Alkoholfrei – Mein Fortschritt",
+  "short_name": "Alkoholfrei",
+  "description": "Mein persönlicher alkoholfreier Fortschritt",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f1f7f6",
+  "theme_color": "#102c37",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
